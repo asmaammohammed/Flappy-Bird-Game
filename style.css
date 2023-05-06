@@ -81,3 +81,28 @@
 		width: 14vw;
 	}
 }
+
+
+
+
+
+@media only screen and (max-width: 450px){
+
+	.message{
+		font-size: 30px;
+		top: 20%;
+		white-space: nowrap;
+	}
+	.score{
+		font-size: 4vh;
+	}
+	.bird{
+		width: 90px;
+		height: 45px;
+	}
+	.pipe_sprite{
+		width: 7vw;
+	}
+
+
+}
